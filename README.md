@@ -4,6 +4,8 @@
 
 I am currently teaching myself how to code. My goal is to understand all the fundamentals so that even complex problems are easy to break down and then solve.
 
+---
+
 ### Languages and Tools
 
   <img align="left" alt="HTML5" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
