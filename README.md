@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I am currently teaching myself how to code. My goal is to understand all the fundamentals so that even complex problems are easy to break down and then solve.
+
 
 ---
 
