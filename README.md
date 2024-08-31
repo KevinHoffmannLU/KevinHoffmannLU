@@ -2,7 +2,13 @@
 
 **`Web Developer`**
 
+Current list of things I want to do:
+- Learn C++ and make a Minecraft clone
+- Make an algorithm simulator using Python
+- Build RavenMap, a similar tool to Obisidian, just more structured and with more features, in TypeScript
+- Learn Java and Spring Boot and maybe PHP with Laravel
 
+Goal of all of this is to be a well rounded programmer, with good math and algorithms knowledge, strong problem solving skills and knowledge of many technologies and techniques.
 
 ---
 
